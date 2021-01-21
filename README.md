@@ -1,4 +1,4 @@
-# Data-Science-and-Machine-Learning-
+# Data-Science-and-Machine-Learning-Projects
 
 Consists of the following projects
 
