@@ -1,6 +1,6 @@
 # Data-Science-and-Machine-Learning-Projects
 
-Consists of the following projects
+Consists of the following projects : 
 
   1. Bike Share : 
       The project performs explorative data analysis on the bike sharing data
