@@ -19,4 +19,11 @@ Consists of the following projects :
   
      All the data available to us over the web is not readily available and is present in an unstructured format. Thus, Web Scraping is an important tool to get the data in a          structed form that can be used to perform further analysis.
   
-      
+  5. Puerto Rico Hurricane Mortality :
+  
+     The project uses Data Wrangling to extract actual daily mortality data from Puerto Rico and investigate whether Hurricane Maria had an immediate effect on daily mortality          compared to unaffected days in September 2015-2017
+  
+    
+  
+        
+
