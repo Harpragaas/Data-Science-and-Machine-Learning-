@@ -14,3 +14,9 @@ Consists of the following projects :
   3. Cervical Cancer - Determining chances of cancer on the basis of risk factors :
   
       This project was part of my Bio-inspired Neural Networks course at the Australian National University. The project uses a combination of Decision Tree techniques and Neural       Network in order to determine the chances of cervical cancer based on the risk factors mentioned in the data set.
+
+  4. Basic Web Scraper :
+  
+     All the data available to us over the web is not readily available and is present in an unstructured format. Thus, Web Scraping is an important tool to get the data in a          structed form that can be used to perform further analysis.
+  
+      
